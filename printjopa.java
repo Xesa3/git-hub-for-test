@@ -1,5 +1,11 @@
 public class printjopa {
     public static void main(String[] args) {
-        System.out.println("Jopa afdf");
+        int a = 10;
+        int b = 20;
+
+        int res = a + b;
+
+        System.out.println(res);
+
     }
 }
